@@ -3,8 +3,10 @@ const analyse = (a, b) => {
         if (a <= b || a == b){
         return a + b;
     }
-    else {
-        return "No gree for anybody";
+    else if (a > b && a === b) {
+        return a - b;
+    } else {
+        return "no gree for anybody";
     }
     } catch (error) {
         return error;
