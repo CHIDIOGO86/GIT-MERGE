@@ -28,3 +28,4 @@ console.log(customerSearch("maths", ["Lagos", "school", "law", "medicine", "chem
 //create the new branch on git bash (git checkout -b "new branch")
 //open a fresh vscode app (code .), if you want to open the whole project folder or 
 //move into the new folder then open the vscode app, if you want to open only the new folder (cd into the new folder), then type code .
+//please note that when pushing on new branch for the 1st time use (git push -u origin "branch name")
