@@ -8,3 +8,11 @@ const concept = (c,d) => {
 }
 
 console.log(concept(6,6))
+
+const Map = (africa) =>{
+
+    if (typeof(africa) === "string"){
+        return "Nigeria"
+    }
+}
+console.log(Map(4))
