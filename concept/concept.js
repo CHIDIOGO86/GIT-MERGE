@@ -14,5 +14,8 @@ const Map = (africa) =>{
     if (typeof(africa) === "string"){
         return "Nigeria"
     }
+    else{
+        return "true"
+    }
 }
 console.log(Map(4))
