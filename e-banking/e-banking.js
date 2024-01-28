@@ -32,7 +32,20 @@ return "found";
 return "limit reduced";
 
 }
-console.log(iApp("7",[6,5,4]))
+//console.log(iApp("7",[6,5,4]))
 
 
+//console.log(concept(4,6))
+
+
+//ASSIGNMENT 21/1/2024
+//Make changes to concept.js, commit, push and do a pull request
+
+const newAdd = (a,b)=>{
+if ( a <= b) {
+    return "true"
+}
+
+}
+console.log(newAdd(3,4))
 
